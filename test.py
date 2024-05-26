@@ -1,3 +1,3 @@
 a=2500
-b=200000
-print (a+b)
+b=2
+print (a-b)
